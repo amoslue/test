@@ -1,2 +1,2 @@
 hahah
-conflict1
+conflict2 from branch 1
